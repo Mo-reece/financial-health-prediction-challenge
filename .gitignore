@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+catboost_info/
+*.log
+*.tmp
+*.joblib
+*.pkl
+.DS_Store
+Thumbs.db
